@@ -1,0 +1,18 @@
+D:\RM98690 - LOGIN FIAP E INSS\RM98690 - LOGIN E INSS\obj\Debug\net8.0-windows\RM98690___LOGIN_E_INSS.Aposentadoria.resources
+D:\RM98690 - LOGIN FIAP E INSS\RM98690 - LOGIN E INSS\obj\Debug\net8.0-windows\RM98690 - LOGIN E INSS.csproj.GenerateResource.cache
+D:\RM98690 - LOGIN FIAP E INSS\RM98690 - LOGIN E INSS\obj\Debug\net8.0-windows\RM98690 - LOGIN E INSS.GeneratedMSBuildEditorConfig.editorconfig
+D:\RM98690 - LOGIN FIAP E INSS\RM98690 - LOGIN E INSS\obj\Debug\net8.0-windows\RM98690 - LOGIN E INSS.AssemblyInfoInputs.cache
+D:\RM98690 - LOGIN FIAP E INSS\RM98690 - LOGIN E INSS\obj\Debug\net8.0-windows\RM98690 - LOGIN E INSS.AssemblyInfo.cs
+D:\RM98690 - LOGIN FIAP E INSS\RM98690 - LOGIN E INSS\obj\Debug\net8.0-windows\RM98690 - LOGIN E INSS.csproj.CoreCompileInputs.cache
+D:\RM98690 - LOGIN FIAP E INSS\RM98690 - LOGIN E INSS\bin\Debug\net8.0-windows\RM98690 - LOGIN E INSS.exe
+D:\RM98690 - LOGIN FIAP E INSS\RM98690 - LOGIN E INSS\bin\Debug\net8.0-windows\RM98690 - LOGIN E INSS.deps.json
+D:\RM98690 - LOGIN FIAP E INSS\RM98690 - LOGIN E INSS\bin\Debug\net8.0-windows\RM98690 - LOGIN E INSS.runtimeconfig.json
+D:\RM98690 - LOGIN FIAP E INSS\RM98690 - LOGIN E INSS\bin\Debug\net8.0-windows\RM98690 - LOGIN E INSS.dll
+D:\RM98690 - LOGIN FIAP E INSS\RM98690 - LOGIN E INSS\bin\Debug\net8.0-windows\RM98690 - LOGIN E INSS.pdb
+D:\RM98690 - LOGIN FIAP E INSS\RM98690 - LOGIN E INSS\obj\Debug\net8.0-windows\RM98690 - LOGIN E INSS.dll
+D:\RM98690 - LOGIN FIAP E INSS\RM98690 - LOGIN E INSS\obj\Debug\net8.0-windows\refint\RM98690 - LOGIN E INSS.dll
+D:\RM98690 - LOGIN FIAP E INSS\RM98690 - LOGIN E INSS\obj\Debug\net8.0-windows\RM98690 - LOGIN E INSS.pdb
+D:\RM98690 - LOGIN FIAP E INSS\RM98690 - LOGIN E INSS\obj\Debug\net8.0-windows\RM98690 - LOGIN E INSS.genruntimeconfig.cache
+D:\RM98690 - LOGIN FIAP E INSS\RM98690 - LOGIN E INSS\obj\Debug\net8.0-windows\ref\RM98690 - LOGIN E INSS.dll
+D:\RM98690 - LOGIN FIAP E INSS\RM98690 - LOGIN E INSS\obj\Debug\net8.0-windows\RM98690___LOGIN_E_INSS.Login.resources
+D:\RM98690 - LOGIN FIAP E INSS\RM98690 - LOGIN E INSS\obj\Debug\net8.0-windows\RM98690___LOGIN_E_INSS.Properties.Resources.resources
