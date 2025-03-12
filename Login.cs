@@ -25,10 +25,10 @@ namespace RM98690___LOGIN_E_INSS
 
             if (usuario == "RM98690@fiap.com.br" && senha == "98690")
             {
-                // Se o login for bem-sucedido, abre a segunda tela
+                
                 Aposentadoria aposentadoria = new Aposentadoria();
                 aposentadoria.Show();
-                this.Hide(); // Esconde a tela de login
+                this.Hide(); 
             }
             else
             {
